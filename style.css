@@ -1,0 +1,21 @@
+:root {
+	--bg:     #FFE;
+	--text:   #343;
+	--high-1: #0CF;
+	--high-2: #F0C;
+}
+
+html {
+	background-color: var(--bg);
+	color: var(--text);
+
+	font-size: 20px;
+	font-family: "Alegreya";
+}
+
+#content { padding: 0 10px; max-width: 650px; margin: auto; }
+
+.k { font-size: 75px; color: #F0C; font-family: "Kurale", serif; font-weight: 400; font-style: normal; }
+.n { font-size: 90px; color: #0CF; font-family: "Neuton", serif; font-weight: 400; font-style: normal; }
+.r { font-size: 82px; color: #0CF; font-family: "Rakkas", serif; font-weight: 400; font-style: normal; }
+.s { font-size: 68px; color: #F0C; font-family: "Suez One", serif; font-weight: 400; font-style: normal; }
