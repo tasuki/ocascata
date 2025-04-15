@@ -37,12 +37,14 @@ p {
 .tile a .inner { height: 50px; margin: 10px; padding: 45px 30px; }
 
 @media screen and (max-width: 35.5em) {
+	#logo { height: 100px; }
 	.tile a .inner { margin: 10px 20px; }
 	.tile:nth-child(odd) .inner { background: var(--high1); color: var(--high2); }
 	.tile:nth-child(even) .inner { background: var(--high2); color: var(--high1); }
 }
 
 @media screen and (min-width: 35.5em) {
+	#logo { height: 140px; }
 	.tile:nth-child(4n+1) .inner,
 	.tile:nth-child(4n+4) .inner
 		{ background: var(--high1); color: var(--high2); }
