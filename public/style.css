@@ -5,6 +5,8 @@
 	--high2:  #FFA;
 }
 
+/* layout-ish */
+
 body {
 	background-color: var(--bg);
 	color: var(--text);
@@ -18,9 +20,6 @@ body {
 
 #content { padding-bottom: 30px; }
 .pad { max-width: 650px; margin: auto; }
-
-p { margin: 10px; }
-
 
 #logo { margin: 10px 0 0 20px; height: 80px; }
 #page-title h1 {
@@ -69,3 +68,8 @@ footer {
 	background: var(--text);
 	color: var(--bg);
 }
+
+/* concrete content */
+
+p { margin: 10px; }
+.photo { width: 100%; margin-bottom: 10px; }
