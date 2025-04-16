@@ -22,30 +22,44 @@ body {
 p { margin: 10px; }
 
 
-#logo { color: #FC0; margin: 10px 0 0 20px; height: 100px; }
+#logo { margin: 10px 0 0 20px; height: 80px; }
 #page-title h1 {
 	color: var(--high1);
 	font-family: "Suez One", serif;
-	font-size: 48px;
+	font-size: 36px;
 	line-height: 0.9;
 	margin: 0;
-	padding: 20px 0 0 20px;
+	padding: 25px 0 0 20px;
+	text-wrap: balance;
 }
 
-.tile a { text-decoration: none; }
-.tile a:hover .inner { text-decoration: underline; }
-.tile a .inner { height: 50px; margin: 10px 20px; padding: 45px 30px; }
+.tile-bg {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 10px 20px;
+}
+#tile-o-nas { }
+#tile-cinnosti { background-image: url('/public/tiles/hlavy.webp'); }
+#tile-kde { background-image: url('/public/tiles/mapa.webp'); }
+#tile-zazemi { background-image: url('/public/tiles/typi.webp'); }
+#tile-zahrada { background-image: url('/public/tiles/kytky.webp'); }
+.tile a { text-decoration: none; font-weight: bold; }
+.tile a:hover .inner { text-decoration: underline; opacity: 75%; }
+.tile a .inner { margin: 0; padding: 45px 30px 20px 30px; opacity: 85%; }
 
 .tile:nth-child(odd) .inner { background: var(--high1); color: var(--high2); }
 .tile:nth-child(even) .inner { background: var(--high2); color: var(--high1); }
 
 @media screen and (min-width: 35.5em) {
-	#logo { height: 140px; }
-	#page-title h1 { font-size: 68px; }
-	.tile a .inner { margin: 10px; }
+	#logo { height: 140px; margin-top: 10px; }
+	.tiles #logo { margin-top: 0px; }
+	#page-title h1 { font-size: 68px; padding-top: 30px; }
+	.tile-bg { margin: 10px; }
+	.tile a .inner { padding: 90px 30px 25px 30px; }
 	.tile:nth-child(4n+1) .inner,
 	.tile:nth-child(4n+4) .inner
-		{ background: var(--high1); color: var(--high2); }
+		{ background-color: var(--high1); color: var(--high2); }
 	.tile:nth-child(4n+2) .inner,
 	.tile:nth-child(4n+3) .inner
 		{ background: var(--high2); color: var(--high1); }
