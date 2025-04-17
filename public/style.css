@@ -5,13 +5,19 @@
 	--high2:  #FFA;
 }
 
+@font-face {
+	font-family: 'Bricolage Grotesque'; font-weight: 200 800; font-stretch: 75% 100%; font-display: swap;
+	src: url('/public/fonts/BricolageGrotesqueVF.woff2') format('woff2');
+}
+
+
 /* layout-ish */
 
 body {
 	background-color: var(--bg);
 	color: var(--text);
 	font-size: 20px;
-	font-family: "Ubuntu";
+	font-family: "Bricolage Grotesque";
 
 	display: grid;
 	grid-template-rows: 1fr auto;
@@ -24,26 +30,36 @@ body {
 #logo { margin: 10px 0 0 20px; height: 80px; }
 #page-title h1 {
 	color: var(--high1);
-	font-family: "Suez One", serif;
-	font-size: 36px;
-	line-height: 0.9;
+	font-size: 44px;
+	font-weight: 800;
+	font-stretch: semi-condensed;
+	line-height: 0.8em;
 	margin: 0;
-	padding: 25px 0 0 20px;
+	padding: 20px 50px 0 50px;
 	text-wrap: balance;
 }
+
+@media screen and (min-width: 35.5em) {
+	#logo { height: 140px; margin-top: 10px; }
+	#page-title h1 { font-size: 76px; padding-top: 30px; }
+}
+
+
+/* home tiles */
 
 .tile-bg {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	margin: 10px 20px;
+	font-size: 24px;
 }
 #tile-o-nas { }
 #tile-cinnosti { background-image: url('/public/tiles/hlavy.webp'); }
 #tile-kde { background-image: url('/public/tiles/mapa.webp'); }
 #tile-zazemi { background-image: url('/public/tiles/typi.webp'); }
 #tile-zahrada { background-image: url('/public/tiles/kytky.webp'); }
-.tile a { text-decoration: none; font-weight: bold; }
+.tile a { text-decoration: none; font-weight: 600; }
 .tile a:hover .inner { text-decoration: underline; opacity: 75%; }
 .tile a .inner { margin: 0; padding: 45px 30px 20px 30px; opacity: 85%; }
 
@@ -51,9 +67,7 @@ body {
 .tile:nth-child(even) .inner { background: var(--high2); color: var(--high1); }
 
 @media screen and (min-width: 35.5em) {
-	#logo { height: 140px; margin-top: 10px; }
 	.tiles #logo { margin-top: 0px; }
-	#page-title h1 { font-size: 68px; padding-top: 30px; }
 	.tile-bg { margin: 10px; }
 	.tile a .inner { padding: 90px 30px 25px 30px; }
 	.tile:nth-child(4n+1) .inner,
@@ -68,6 +82,7 @@ footer {
 	background: var(--text);
 	color: var(--bg);
 }
+
 
 /* concrete content */
 
