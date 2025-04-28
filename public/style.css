@@ -1,9 +1,8 @@
 :root {
-	--bg:     #BC3;
+	--bg:     #FFE;
 	--text:   #522;
-	--high1:  #922;
-	--high2:  #FFA;
-	--border: #9A2;
+	--high:   #922;
+	--border: #DDC;
 }
 
 @font-face {
@@ -29,9 +28,9 @@ body {
 #content { padding-bottom: 30px; }
 .pad { max-width: 670px; margin: auto; padding: 0 10px; }
 
-#logo { margin: 10px 0 0 10px; height: 80px; }
+#content #logo { margin: 10px 0 0 10px; height: 80px; }
 #page-title h1 {
-	color: var(--high1);
+	color: var(--high);
 	font-size: 44px;
 	font-weight: 800;
 	font-stretch: semi-condensed;
@@ -42,42 +41,38 @@ body {
 }
 
 @media screen and (min-width: 35.5em) {
-	#logo { height: 140px; margin-top: 10px; }
+	#content #logo { height: 140px; margin-top: 10px; }
 	#page-title h1 { font-size: 76px; padding-top: 30px; }
 }
 
 
 /* home tiles */
 
-.tile-bg {
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	margin: 10px;
-	font-size: 24px;
-}
-#tile-o-nas { }
-#tile-cinnosti { background-image: url('/public/tiles/hlavy.webp'); }
-#tile-kde { background-image: url('/public/tiles/mapa.webp'); }
-#tile-zazemi { background-image: url('/public/tiles/typi.webp'); }
-#tile-zahrada { background-image: url('/public/tiles/kytky.webp'); }
-.tile a { text-decoration: none; font-weight: 600; }
-.tile a:hover .inner { text-decoration: underline; opacity: 75%; }
-.tile a .inner { margin: 0; padding: 45px 30px 20px 30px; opacity: 85%; }
+#tiles { max-width: 1400px; margin: auto; padding-bottom: 10px; }
+#tiles .tile { overflow: hidden; position: relative; height: 200px; }
+#tiles img#logo { display: block; margin: 0 auto; height: 200px; }
 
-.tile:nth-child(odd) .inner { background: var(--high1); color: var(--high2); }
-.tile:nth-child(even) .inner { background: var(--high2); color: var(--high1); }
+#tiles a { position: relative; display: block; padding: 10px; }
+#tiles a img { max-width: 100%; height: auto; min-height: 200px; opacity: 70%; }
+#tiles a:hover img { opacity: 95%; }
 
-@media screen and (min-width: 35.5em) {
-	.tiles #logo { margin-top: 0px; }
-	.tile a .inner { padding: 90px 30px 25px 30px; }
-	.tile:nth-child(4n+1) .inner,
-	.tile:nth-child(4n+4) .inner
-		{ background-color: var(--high1); color: var(--high2); }
-	.tile:nth-child(4n+2) .inner,
-	.tile:nth-child(4n+3) .inner
-		{ background: var(--high2); color: var(--high1); }
+#tiles .tile-title { position: absolute; bottom: 10px; left: 20px; }
+#tiles .tile .inner { color: var(--bg); background: var(--text); padding: 5px 10px; font-size: 26px; font-weight: 600; line-height: 1.2em; }
+
+@media screen and (min-width: 48em) {
+	#tiles .tile { height: 250px; }
+	#tiles img#logo { height: 250px; }
+	#tiles a { padding-top: 20px; }
+	#tiles a img { min-height: 250px; }
+	#tiles .tile .inner { font-size: 30px; }
 }
+@media screen and (min-width: 80em) {
+	#tiles .tile { height: 300px; }
+	#tiles img#logo { height: 300px; }
+	#tiles a img { min-height: 300px; }
+	#tiles .tile .inner { font-size: 36px; }
+}
+
 
 footer {
 	background: var(--text);
@@ -87,7 +82,7 @@ footer {
 
 /* concrete content */
 
-a { color: var(--high1); }
+a { color: var(--high); }
 h2, h3, h4 { margin: 25px 0 10px 0; }
 p { margin: 10px 0; }
 table { border: 1px solid var(--border); border-collapse: collapse; }
