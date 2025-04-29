@@ -49,20 +49,25 @@ body {
 /* home tiles */
 
 #tiles { max-width: 1400px; margin: auto; padding-bottom: 10px; }
-#tiles .tile { overflow: hidden; position: relative; height: 200px; }
-#tiles img#logo { display: block; margin: 0 auto; height: 200px; }
+#tiles .tile { overflow: hidden; position: relative; height: 150px; }
+#tiles img#logo { display: block; margin: 0 auto; height: 150px; }
 
 #tiles a { position: relative; display: block; padding: 10px; }
-#tiles a img { max-width: 100%; height: auto; min-height: 200px; opacity: 70%; }
+#tiles a img { max-width: 100%; height: auto; min-height: 150px; opacity: 70%; }
 #tiles a:hover img { opacity: 95%; }
 
 #tiles .tile-title { position: absolute; bottom: 10px; left: 20px; }
 #tiles .tile .inner { color: var(--bg); background: var(--text); padding: 5px 10px; font-size: 26px; font-weight: 600; line-height: 1.2em; }
 
+@media screen and (min-width: 35.5em) {
+	#tiles .tile { height: 200px; }
+	#tiles img#logo { height: 200px; }
+	#tiles a { padding-top: 20px; }
+	#tiles a img { min-height: 200px; }
+}
 @media screen and (min-width: 48em) {
 	#tiles .tile { height: 250px; }
 	#tiles img#logo { height: 250px; }
-	#tiles a { padding-top: 20px; }
 	#tiles a img { min-height: 250px; }
 	#tiles .tile .inner { font-size: 30px; }
 }
@@ -77,6 +82,9 @@ body {
 footer {
 	background: var(--text);
 	color: var(--bg);
+}
+footer a {
+	color: #FFF;
 }
 
 
