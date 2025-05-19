@@ -11,7 +11,7 @@
 }
 
 
-/* layout-ish */
+/* layout and global */
 
 body {
 	background-color: var(--bg);
@@ -45,6 +45,10 @@ body {
 	#page-title h1 { font-size: 76px; padding-top: 30px; }
 }
 
+footer { background: var(--text); color: var(--bg); }
+footer a { color: var(--bg); }
+footer a:hover { text-decoration: none; }
+
 
 /* home tiles */
 
@@ -76,15 +80,6 @@ body {
 	#tiles img#logo { height: 300px; }
 	#tiles a img { min-height: 300px; }
 	#tiles .tile .inner { font-size: 36px; }
-}
-
-
-footer {
-	background: var(--text);
-	color: var(--bg);
-}
-footer a {
-	color: #FFF;
 }
 
 
