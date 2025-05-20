@@ -5,6 +5,8 @@ title: Letní Týdny
 
 Během léta mají možnost do Ocásčat docházet i děti mimo naši komunitu. [Přihlásit se můžete zde.](https://docs.google.com/forms/d/1hBg1ULSoizvxWZ5Zw0EIB8MpLB9o3THp-ZkbghkNgmk/edit)
 
+Tématické týdny jsou určeny pro děti od 3 do 6 let, starší sourozenci vítáni! Každý všední den 8--16h, 3.000 Kč za týden.
+
 ### 30.6.--4.7. PLNOU PAROU VZAD!
 
 *Nika Exnerová a Maddy Grzybowski*
