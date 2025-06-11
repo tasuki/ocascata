@@ -91,3 +91,4 @@ p { margin: 10px 0; }
 table { border: 1px solid var(--border); border-collapse: collapse; }
 td { padding: 5px 10px; border: 1px solid var(--border); }
 .photo { width: 100%; margin-bottom: 10px; }
+.pure-u-sm-1-2 .photo { width: 95%; }
