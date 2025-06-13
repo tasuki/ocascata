@@ -93,7 +93,8 @@ td { padding: 5px 10px; border: 1px solid var(--border); }
 .photo { width: 100%; margin-bottom: 10px; }
 .pure-u-sm-1-2 .photo { width: 95%; }
 .medailonek h4 { margin-top: 0px; }
+.medailonek img { margin-top: 20px; width: 90%; }
 @media screen and (min-width: 35.5em) {
-	.medailonek h4 { margin-top: 40px; }
+	.medailonek h4 { margin-top: 20px; }
+	.medailonek img { margin-top: 60px; }
 }
-.medailonek img { margin-top: 40px; width: 90%; }

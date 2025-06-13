@@ -59,11 +59,17 @@ Přestože jsme mezi ostatními lesními kluby benjamínci, vytvořili jsme okol
 ## Průvodcovský Tým
 
 <div class="pure-g medailonek">
-	<div class="pure-u-sm-4-4">
+	<div class="pure-u-sm-1-4">
+		<img src="/public/fotky-pruvodkyne/klara.webp"/>
+	</div>
+	<div class="pure-u-sm-3-4">
 		<h4>Klára Oakland</h4>
 		<p>Už při studiu na vysoké škole jsem cítila, že mé profesní kroky povedou mimo běžné školství. Moje první opravdová pracovní zkušenost s malými dětmi byla v soukromých jeslích pro děti od jednoho roku. Poté jsem zamířila do dvou alternativních základních škol. V jedné z nich jsem působila jako školní speciální pedagog ještě po porodu první dcery.  V rodičovství vnímám jako nejdůležitější vztahovost a to se snažím otisknout i do své práce s malými Ocásčaty. Provázím je na jejich začátku vztahování se k vzdělávacím institucím. často v prvních interakcích ve větším kolektivu a dalšími dospělými než těmi z rodiny. Velmi mi záleží na tom, aby měly pozitivní první zkušenost, která jim dá dobrý základ pro vztahování se v dalších letech jejich života. S lesní pedagogikou se teprve seznamuji a učím se vidět příležitosti vzdělávání v přírodě a jsem za tuto výzvu vděčná!</p>
 	</div>
-	<div class="pure-u-sm-4-4">
+	<div class="pure-u-sm-1-4">
+		<img src="/public/fotky-pruvodkyne/naty.webp"/>
+	</div>
+	<div class="pure-u-sm-3-4">
 		<h4>Natália Ščamborová</h4>
 		<p>Ku práci v lesných kluboch som sa dostala úplnou náhodou, no vobec toto náhodné stretnutie neľutujem. Pred 7 rokmi som si skúsila po prvý krát prácu s deťmi v predškolskom veku v Prahe v LK Prokopáček. Bola to krásna, intenzívna skúsenosť a taktiež pre mňa nová cesta, ktorou sa uberať v budúcnosti. Po presťahovaní do Brna som si po ročnej pauze našla prácu v LK Medlánky kde som posobila ako hlavná průvodkyňe jeden rok. Po tom som sa taktiež úplnp zhodou náhod, dostala ku LK Lesní skřítci kde som posobila 4 roky. Svoje posobenie ale od septembra 2025 obmedzujem len na fungovanie v LK Ocásčatá. </p>
 	</div>
