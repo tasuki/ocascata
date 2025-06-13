@@ -30,12 +30,50 @@ Společnými silami se nám i za časového tlaku podařilo lesní klub rozjet a
 
 Přestože jsme mezi ostatními lesními kluby benjamínci, vytvořili jsme okolo Ocásčat komunitu během relativně krátké chvíle. Ocásčata totiž nejsou jen školka. Snažíme se budovat přátelství mezi dětmi ale také mezi celými rodinami. Setkáváme se na slavnostech, trávíme spolu čas na brigádách, po školce spolu jdeme na zmrzku, slavíme společně narozeniny. 
 
-### Tým
-- Mgr. Eliška Černá PhD.
-- Mgr. Klára Oakland
-- Natália Ščamborová
-- Mgr. Nika Exnerová
-- Lucie
-- Agáta
-- Žbětka
-- Ema
+## Jádrový Tým
+
+<div class="pure-g medailonek">
+	<div class="pure-u-sm-1-4">
+		<img src="/public/fotky-pruvodkyne/eliska.webp"/>
+	</div>
+	<div class="pure-u-sm-3-4">
+		<h4>Mgr. Eliška Černá PhD.</h4>
+		<p>Jsem máma dvou kluků Mikyho a Fanyho. Oba chodí do Ocásčat. Jako rodič se podílím na fungování a řízení lesního klubu od jeho počátku na Žlutém kopci. Zaměstnána jsem jako odborná asistentka na katedře Sociální práce v Ostravě.</p>
+	</div>
+	<div class="pure-u-sm-1-4">
+		<img src="/public/fotky-pruvodkyne/klara.webp"/>
+	</div>
+	<div class="pure-u-sm-3-4">
+		<h4>Klára Oakland</h4>
+		<p>Jsem máma dvou holek, Marlen a Matildy. Vystudovala jsem speciální pedagogiku na Masarykově univerzitě. V jádrovém týmu zaštiťuji zejména pedagogickou část – starám se o průvodce, metodicky jim pomáhám (když je to potřeba) a obstarávám veškerou administrativu spojenou s pedagogickou činností. Taky jsem ta, která Vám odpovídá na maily a zprávy na sociálních sítích. Mám na starost i komunikaci s rodiči.</p>
+	</div>
+	<div class="pure-u-sm-1-4">
+		<img src="/public/fotky-pruvodkyne/naty.webp"/>
+	</div>
+	<div class="pure-u-sm-3-4">
+		<h4>Natália Ščamborová</h4>
+		<p>V jadrovom týme vystupujem primárne ako školníčka zázemia záhrad. Všetky manuálne práce sú mi výzvou a teším sa na tie ďaľšie, ktoré nám pripravia nasledujúce roky fungovania našich záhrádkach v centre Brna. Taktiež som v spolku LK Ocásčatá a súčasťou průvodcovského týmu.</p>
+	</div>
+</div>
+
+## Průvodcovský Tým
+
+<div class="pure-g medailonek">
+	<div class="pure-u-sm-4-4">
+		<h4>Klára Oakland</h4>
+		<p>Už při studiu na vysoké škole jsem cítila, že mé profesní kroky povedou mimo běžné školství. Moje první opravdová pracovní zkušenost s malými dětmi byla v soukromých jeslích pro děti od jednoho roku. Poté jsem zamířila do dvou alternativních základních škol. V jedné z nich jsem působila jako školní speciální pedagog ještě po porodu první dcery.  V rodičovství vnímám jako nejdůležitější vztahovost a to se snažím otisknout i do své práce s malými Ocásčaty. Provázím je na jejich začátku vztahování se k vzdělávacím institucím. často v prvních interakcích ve větším kolektivu a dalšími dospělými než těmi z rodiny. Velmi mi záleží na tom, aby měly pozitivní první zkušenost, která jim dá dobrý základ pro vztahování se v dalších letech jejich života. S lesní pedagogikou se teprve seznamuji a učím se vidět příležitosti vzdělávání v přírodě a jsem za tuto výzvu vděčná!</p>
+	</div>
+	<div class="pure-u-sm-4-4">
+		<h4>Natália Ščamborová</h4>
+		<p>Ku práci v lesných kluboch som sa dostala úplnou náhodou, no vobec toto náhodné stretnutie neľutujem. Pred 7 rokmi som si skúsila po prvý krát prácu s deťmi v predškolskom veku v Prahe v LK Prokopáček. Bola to krásna, intenzívna skúsenosť a taktiež pre mňa nová cesta, ktorou sa uberať v budúcnosti. Po presťahovaní do Brna som si po ročnej pauze našla prácu v LK Medlánky kde som posobila ako hlavná průvodkyňe jeden rok. Po tom som sa taktiež úplnp zhodou náhod, dostala ku LK Lesní skřítci kde som posobila 4 roky. Svoje posobenie ale od septembra 2025 obmedzujem len na fungovanie v LK Ocásčatá. </p>
+	</div>
+	<div class="pure-u-sm-1-4">
+		<img src="/public/fotky-pruvodkyne/nika.webp"/>
+	</div>
+	<div class="pure-u-sm-3-4">
+		<h4>Nika Exnerová</h4>
+		<p>K Ocásčatům jsem se dostala v únoru 2024. Tehdy jsem pověsila na hřebík své dosavadní povolání literární překladatelky. Hledala jsem práci mezi lidmi a v přírodě a průvodcování znělo jako ideální krok vpřed. Zkušenost s prací s dětmi už jsem měla - z letního tábora uprostřed lesů, kam jezdím od malička a kde dělám už od šestnácti táborovou vedoucí. Mezi předškoláky jsem se však octla úplně poprvé a každičký den se s nimi něco nového učím.</p>
+		<p>Na vysoké škole jsem vystudovala překladatelství a etnologii, a abych si doplnila pedagogické vzdělání, prošla jsem kurzem Pedagog volného času, díky němuž můžu mimo jiné vykonávat povolání asistentky pedagoga nebo vychovatelky.</p>
+		<p>Dětem chci předávat lásku k přírodě a respekt k druhým. Chci, aby se v lese dokázaly cítit bezpečně, aby se v něm naučily radovat z maličkostí a aby v nich zakořenilo vědomí, že je třeba ho někdy taky chránit. Ráda bych jim ukázala, že na zemi je spousta různých lidí s různými zájmy a potřebami a že v různorodosti a respektu k druhým je krása a síla. Po odpoledních s nimi ráda zpívám a hraju na kytaru a mám radost z každé nové hry, kterou se spolu naučíme.</p>
+	</div>
+</div>
