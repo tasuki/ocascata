@@ -37,7 +37,7 @@ Přestože jsme mezi ostatními lesními kluby benjamínci, vytvořili jsme okol
 		<img src="/public/fotky-pruvodkyne/eliska.webp"/>
 	</div>
 	<div class="pure-u-sm-3-4">
-		<h4>Mgr. Eliška Černá PhD.</h4>
+		<h4>Eliška Černá</h4>
 		<p>Jsem máma dvou kluků Mikyho a Fanyho. Oba chodí do Ocásčat. Jako rodič se podílím na fungování a řízení lesního klubu od jeho počátku na Žlutém kopci. Zaměstnána jsem jako odborná asistentka na katedře Sociální práce v Ostravě.</p>
 	</div>
 	<div class="pure-u-sm-1-4">
