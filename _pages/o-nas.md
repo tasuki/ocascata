@@ -84,6 +84,6 @@ Přestože jsme mezi ostatními lesními kluby benjamínci, vytvořili jsme okol
 	</div>
 </div>
 
-		<h4>Alica Lipková</h4>
-		<p>Už od dětství jsem věřila, že sny se plní a proto jsem vystudovala obor Stavba letadel na technické univerzitě v Brně. Svoje povolání jsem čas od času "okořenila" věnováním se jiným činnostem a tak jsem se ocitla ve Velké Británii jako součást rodiny se čtyřmi dětmi. Po narození svých dětí jsem vykročila zcela novou cestou, kterou jsem se rozhodla prozkoumat ze všech stran. Absolvovala jsem kurz chůvy v dětské skupině a vyrazila "do nového světa". Ráda bych sdílela s dětmi radost z tvoření a prožívání, pozorovala jejich cestu objevování, byla poblíž, když se bude hodit pomocná ruka a pomohla jim vyrazit na cestu za svými sny.
-„Chceš-li postavit loď, nesmíš poslat muže, aby sehnali dřevo a připravovali nástroje, ale nejprve musíš ve svých mužích vzbudit touhu po nekonečných dálkách otevřeného moře.“ (A.de Saint-Exupéry).</p>
+		Alica Lipková
+		Už od dětství jsem věřila, že sny se plní a proto jsem vystudovala obor Stavba letadel na technické univerzitě v Brně. Svoje povolání jsem čas od času "okořenila" věnováním se jiným činnostem a tak jsem se ocitla ve Velké Británii jako součást rodiny se čtyřmi dětmi. Po narození svých dětí jsem vykročila zcela novou cestou, kterou jsem se rozhodla prozkoumat ze všech stran. Absolvovala jsem kurz chůvy v dětské skupině a vyrazila "do nového světa". Ráda bych sdílela s dětmi radost z tvoření a prožívání, pozorovala jejich cestu objevování, byla poblíž, když se bude hodit pomocná ruka a pomohla jim vyrazit na cestu za svými sny.
+„Chceš-li postavit loď, nesmíš poslat muže, aby sehnali dřevo a připravovali nástroje, ale nejprve musíš ve svých mužích vzbudit touhu po nekonečných dálkách otevřeného moře.“ (A.de Saint-Exupéry).
