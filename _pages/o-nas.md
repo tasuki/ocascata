@@ -82,8 +82,12 @@ Přestože jsme mezi ostatními lesními kluby benjamínci, vytvořili jsme okol
 		<p>Na vysoké škole jsem vystudovala překladatelství a etnologii, a abych si doplnila pedagogické vzdělání, prošla jsem kurzem Pedagog volného času, díky němuž můžu mimo jiné vykonávat povolání asistentky pedagoga nebo vychovatelky.</p>
 		<p>Dětem chci předávat lásku k přírodě a respekt k druhým. Chci, aby se v lese dokázaly cítit bezpečně, aby se v něm naučily radovat z maličkostí a aby v nich zakořenilo vědomí, že je třeba ho někdy taky chránit. Ráda bych jim ukázala, že na zemi je spousta různých lidí s různými zájmy a potřebami a že v různorodosti a respektu k druhým je krása a síla. Po odpoledních s nimi ráda zpívám a hraju na kytaru a mám radost z každé nové hry, kterou se spolu naučíme.</p>
 	</div>
+	<div class="pure-u-sm-1-4">
+		<img src="/public/fotky-pruvodkyne/alica.webp"/>
+	</div>
+	<div class="pure-u-sm-3-4">
+		<h4>Alica Lipková</h4>
+		<p>Už od dětství jsem věřila, že sny se plní a proto jsem vystudovala obor Stavba letadel na technické univerzitě v Brně. Svoje povolání jsem čas od času "okořenila" věnováním se jiným činnostem a tak jsem se ocitla ve Velké Británii jako součást rodiny se čtyřmi dětmi. Po narození svých dětí jsem vykročila zcela novou cestou, kterou jsem se rozhodla prozkoumat ze všech stran. Absolvovala jsem kurz chůvy v dětské skupině a vyrazila "do nového světa". Ráda bych sdílela s dětmi radost z tvoření a prožívání, pozorovala jejich cestu objevování, byla poblíž, když se bude hodit pomocná ruka a pomohla jim vyrazit na cestu za svými sny.</p>
+		<p>„Chceš-li postavit loď, nesmíš poslat muže, aby sehnali dřevo a připravovali nástroje, ale nejprve musíš ve svých mužích vzbudit touhu po nekonečných dálkách otevřeného moře.“ (A.de Saint-Exupéry).</p>
+	</div>
 </div>
-	<h4>Alica Lipková</h4>
-		<p>Už od dětství jsem věřila, že sny se plní a proto jsem vystudovala obor Stavba letadel na technické univerzitě v Brně. Svoje povolání jsem čas od času "okořenila" věnováním se jiným činnostem a tak jsem se ocitla ve Velké Británii jako součást rodiny se čtyřmi dětmi. Po narození svých dětí jsem vykročila zcela novou cestou, kterou jsem se rozhodla prozkoumat ze všech stran. Absolvovala jsem kurz chůvy v dětské skupině a vyrazila "do nového světa". Ráda bych sdílela s dětmi radost z tvoření a prožívání, pozorovala jejich cestu objevování, byla poblíž, když se bude hodit pomocná ruka a pomohla jim vyrazit na cestu za svými sny.
-„Chceš-li postavit loď, nesmíš poslat muže, aby sehnali dřevo a připravovali nástroje, ale nejprve musíš ve svých mužích vzbudit touhu po nekonečných dálkách otevřeného moře.“ (A.de Saint-Exupéry).</p>
-		
