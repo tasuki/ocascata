@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Činnosti
+title: Činnosti a Dokumenty
 ---
 
 Lesní klub funguje od září 2024 v celotýdenním režimu. Kapacita klubu je momentálně 16 dětí na den a 2 průvodkyně. Provoz začíná v 8:00 a školková branka zavírá v 16:30. Stravování nám zajišťuje externí dodavatel. Ve školním roce 2024/2025 je to jídelna Lakšmana. Na zahrádce máme přívod užitkové vody. Pro pitnou vodu si docházíme. Záchod máme kompostovatelný. 
@@ -43,4 +43,10 @@ Spousta rodičů má obavy z toho, jak jejich dítko zvládne adaptaci na nové 
 
 U každého dítěte probíhá adaptace různým způsobem. Pro některé děti je těžké loučení, pro jiné je obtížné zůstat do odpoledních hodin. Pro nás je. stejně jako pro Vás, důležité, aby s námi bylo dětem hezky a čas v Ocásčatech pro ně byl strávený radostně a smysluplně. 
 
+## Dokumenty
 
+- [Koncepce vzdělávání](https://docs.google.com/file/d/155kDQE-kdFSMmrd6Rt8Sgijl0tIt1v_UhhjXQk-WTfc)
+- [Provozní řád](https://docs.google.com/file/d/1yUmJOkv2SW0G2qCcX3tzYM1We7Qd87tOBzFnHgbcNdw)
+- [Organizační řád](https://drive.google.com/file/d/1J9CP25PTbwlCEHmEHCwtDGGsQ_ckYDd-)
+- [Směrnice k vyřizování stížností](https://docs.google.com/file/d/1JzU_QX3YrSlNrN7FKGKtWpkvUjoZKu3z)
+- [Výroční zpráva 2024](https://drive.google.com/file/d/1qUSQQKr6uadAf5h4MKJM6JJJ-dlaM1kG)
