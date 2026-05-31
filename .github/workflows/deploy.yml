@@ -4,7 +4,7 @@ name: Deploy teh website
 
 on:
   push:
-    branches: [master]
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
@@ -22,6 +22,5 @@ jobs:
       - run: |
           git config user.name vit.brunner
           git config user.email vit.brunner@gmail.com
-          git remote add prod \
-            ssh://deploy_ocascata@tasuki.org:678/var/git/cz.ocascata/www
+          git remote add prod ssh://deploy_ocascata@ocascata.cz:678/var/git/cz.ocascata/www
           git push prod
